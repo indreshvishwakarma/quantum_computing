@@ -1,1 +1,2 @@
-# Learing Qiskit Implemetations of Quantum Computing Alogs
+# Learing Qiskit 
+Implemetations of Quantum Computing Alogs in Qiskit
