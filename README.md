@@ -1,2 +1,2 @@
 # Learing Qiskit 
-Implemetations of Quantum Computing Alogs in Qiskit
+Implemetations of Quantum Computing Algos in Qiskit
